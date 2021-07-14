@@ -1,0 +1,16 @@
+body{
+    background-image: url("bk.png");
+    background-position: center;
+    background-size: cover;
+}
+#pd_canvas{
+    background-color: antiquewhite;
+}
+h1, #color_hi, #width_hi{
+    color: antiquewhite;
+}
+
+#palete{
+    width: 300;
+    height: 350;
+}
